@@ -1,2 +1,3 @@
 # hello-world
-hello-world
+
+It was deleted
